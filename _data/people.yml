@@ -19,6 +19,7 @@ mfg:
     
 mp:
     display_name: "María Pereda"
+    webpage: "https://sites.google.com/site/mperedag/"
     role: faculty
     image: /img/people/mp.jpg
     bio: Professor
@@ -30,6 +31,14 @@ mom:
     role: faculty
     image: /img/people/foto-organizacion-Miguel Ortega.jpg
     bio: Professor
+
+ahs:
+    display_name: "Álvaro Herráiz Solla"
+    role: postdoc
+
+dba:
+    display_name: "Daniel Bouzon Assad"
+    role: postdoc
 
 grad-b:
     display_name: "Marta Mañá"
