@@ -1,136 +1,63 @@
 
-prof-a:
-    display_name: "Prof A"
+tbs:
+    display_name: "Tamara Borreguero-Sanchidrián"
     role: faculty
+    image: /img/people/tbs.jpg
+    bio: Part-time Professor
 
-prof-b:
-    display_name: "Prof B"
+mfg:
+    display_name: "Miguel Fernández Gutiérrez"
     role: faculty
-
-prof-c:
-    display_name: "Prof C"
+    image: /img/people/scott.png
+    bio: Professor
+    
+mp:
+    display_name: "María Pereda"
     role: faculty
+    image: /img/people/mp.jpg
+    bio: Professor
 
-profx:
+mom:
     display_name: "Miguel Ortega-Mier"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+    webpage: "http://www.ingor.upm.es/web-personal/35"
+    github: miguelortegamier
     role: faculty
     image: /img/people/foto-organizacion-Miguel Ortega.jpg
     bio: Professor
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
-
-grad-a:
-    display_name: "Grad A"
-    role: grad
-
 grad-b:
-    display_name: "Graduate Student B With Long Name"
+    display_name: "Marta Mañá"
     role: grad
 
 grad-c:
-    display_name: "Grad C"
+    display_name: "Javier Soto Pérez-Olivares"
     role: grad
 
-grad-d:
-    display_name: "Grad D"
-    role: grad
 
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
 
 alum-a:
-    display_name: "Alum A"
+    display_name: "Raúl Pulido"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "Ph.D., 2017. Now at Repsol."
+  
 
 alum-b:
-    display_name: "Alum B With Way Longer Name"
+    display_name: "Jing Shao"
     role: alum
+    bio: "Ph.D., 2017. Now at Northwestern Polytechnical University."
 
 alum-c:
-    display_name: "Alum C"
+    display_name: "Ahmed Sayem"
     role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
+   
 
 collab-a:
-    display_name: "Collaborator A"
+    display_name: "Álvaro García Sánchez"
     role: collab
+    image: /img/people/ags.jpg
+    bio: Founder at baobab soluciones
 
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
 
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
 
 ugrad-a:
     display_name: "Ugrad A"
