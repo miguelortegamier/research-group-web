@@ -1,12 +1,18 @@
 
 tbs:
-    display_name: "Tamara Borreguero-Sanchidrián"
+    display_name: "Tamara Borreguero"
     role: faculty
-    image: /img/people/tbs.jpg
+    image: /img/people/tbs.jpeg
     bio: Part-time Professor
+    
+ags:
+    display_name: "Álvaro García Sánchez"
+    role: faculty
+    image: /img/people/ags.jpg
+    bio: Temporaly at baobab soluciones
 
 mfg:
-    display_name: "Miguel Fernández Gutiérrez"
+    display_name: "Miguel Fernández"
     role: faculty
     image: /img/people/scott.png
     bio: Professor
@@ -33,14 +39,11 @@ grad-c:
     display_name: "Javier Soto Pérez-Olivares"
     role: grad
 
-
-
 alum-a:
     display_name: "Raúl Pulido"
     role: alum
     bio: "Ph.D., 2017. Now at Repsol."
   
-
 alum-b:
     display_name: "Jing Shao"
     role: alum
@@ -50,39 +53,10 @@ alum-c:
     display_name: "Ahmed Sayem"
     role: alum
    
-
 collab-a:
-    display_name: "Álvaro García Sánchez"
+    display_name: "Collab A"
     role: collab
-    image: /img/people/ags.jpg
-    bio: Founder at baobab soluciones
-
-
-
+  
 ugrad-a:
-    display_name: "Ugrad A"
+    display_name: "Irene Sánchez Gómez"
     role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
