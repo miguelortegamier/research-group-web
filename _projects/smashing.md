@@ -5,7 +5,7 @@ description: |
   SMASHING project (RTI2018-094614-B-I00) proposes the development of prescriptive maintenance methodologies in industrial plants, but also   in industrial services for other businesses, like HVAC, water, energy, and so on, in commercial and residential buildings.
 
 people:
-  - mfg
+  - mgf
   - mom
   
 layout: project
