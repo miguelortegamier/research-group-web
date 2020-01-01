@@ -51,17 +51,18 @@ grad-c:
 alum-a:
     display_name: "Raúl Pulido"
     role: alum
-    bio: "Ph.D., 2017. Now at Repsol."
+    bio: "Ph.D., 2015. Now at Repsol (Spain)."
   
 alum-b:
     display_name: "Jing Shao"
     role: alum
-    bio: "Ph.D., 2017. Now at Northwestern Polytechnical University."
+    bio: "Ph.D., 2016. Now at Northwestern Polytechnical University."
 
 alum-c:
     display_name: "Ahmed Sayem"
-    role: alum
-   
+    role: alum   
+    bio: "Ph.D., 2018. Now at Shahjalal University of Science & Technology."
+    
 collab-a:
     display_name: "Collab A"
     role: collab
