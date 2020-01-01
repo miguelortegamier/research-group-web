@@ -11,8 +11,8 @@ ags:
     image: /img/people/ags.JPG
     bio: Temporaly at baobab soluciones
 
-mfg:
-    display_name: "Miguel Fernández"
+mgf:
+    display_name: "Miguel Gutiérrez"
     role: faculty
     image: /img/people/scott.png
     bio: Professor
