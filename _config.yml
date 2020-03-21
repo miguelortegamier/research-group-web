@@ -1,5 +1,5 @@
 name: GIOL Research Group
-url: http://http://iol.etsii.upm.es/
+url: http://iol.etsii.upm.es/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
