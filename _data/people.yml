@@ -4,6 +4,18 @@ tbs:
     role: faculty
     image: /img/people/tbs.jpeg
     bio: Part-time professor
+
+jdm:
+    display_name: "Javier Diego"
+    role: faculty
+    image: /img/people/tbs.jpeg
+    bio: Part-time professor
+    
+jdm:
+    display_name: "Manuel Antonio Fernandez-Villacañas Marin"
+    role: faculty
+    image: /img/people/tbs.jpeg
+    bio: Part-time professor
     
 ags:
     display_name: "Álvaro García Sánchez"
