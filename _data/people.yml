@@ -11,7 +11,7 @@ jdm:
     image: /img/people/tbs.jpeg
     bio: Part-time professor
     
-jdm:
+mafm:
     display_name: "Manuel Antonio Fernandez-Villacañas Marin"
     role: faculty
     image: /img/people/tbs.jpeg
@@ -53,7 +53,7 @@ dba:
     role: postdoc
 
 grad-b:
-    display_name: "Marta Mañá"
+    display_name: "Marta Mañá Sánchez"
     role: grad
 
 grad-c:
@@ -68,12 +68,12 @@ alum-a:
 alum-b:
     display_name: "Jing Shao"
     role: alum
-    bio: "Ph.D., 2016. Now at Northwestern Polytechnical University."
+    bio: "Ph.D., 2016. Now at Northwestern Polytechnical University (China)."
 
 alum-c:
     display_name: "Ahmed Sayem"
     role: alum   
-    bio: "Ph.D., 2018. Now at Shahjalal University of Science & Technology."
+    bio: "Ph.D., 2018. Now at Shahjalal University of Science & Technology (Bangladesh)."
     
 collab-a:
     display_name: "Collab A"
