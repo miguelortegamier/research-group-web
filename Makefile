@@ -16,7 +16,7 @@ build: _includes/pubs.html
 # SERVE_PORT=5001 make serve
 # SERVE_HOST ?= 138.4.110.148
 # SERVE_PORT ?= 5000
-SERVE_HOST ?= vps148.cesvima.upm.es
+SERVE_HOST ?= 138.4.110.148
 SERVE_PORT ?= 80
 
 
