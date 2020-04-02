@@ -14,8 +14,11 @@ build: _includes/pubs.html
 
 # you can configure these at the shell, e.g.:
 # SERVE_PORT=5001 make serve
-SERVE_HOST ?= 138.4.110.148
-SERVE_PORT ?= 5000
+# SERVE_HOST ?= 138.4.110.148
+# SERVE_PORT ?= 5000
+SERVE_HOST ?= vps148.cesvima.upm.es
+SERVE_PORT ?= 80
+
 
 serve: _includes/pubs.html
 	jekyll serve --port $(SERVE_PORT) --host $(SERVE_HOST)
