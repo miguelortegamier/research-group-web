@@ -44,34 +44,34 @@ mom:
 
 ahs:
     display_name: "Álvaro Herráiz Solla"
-    role: alum
+    role: postdoc
 
 dba:
     display_name: "Daniel Bouzon Assad"
-    role: alum
+    role: postdoc
 
 grad-b:
     display_name: "Marta Mañá Sánchez"
-    role: alum
+    role: grad
     image: /img/people/msm.jpg
 
 grad-c:
     display_name: "Javier Soto Pérez-Olivares"
-    role: alum
+    role: grad
 
 alum-a:
     display_name: "Raúl Pulido"
-    role: postdoc
+    role: alum
     bio: "Ph.D., 2015. Now at Repsol (Spain)."
   
 alum-b:
     display_name: "Jing Shao"
-    role: postdoc
+    role: alum
     bio: "Ph.D., 2016. Now at Northwestern Polytechnical University (China)."
 
 alum-c:
     display_name: "Ahmed Sayem"
-    role: postdoc   
+    role: alum   
     bio: "Ph.D., 2018. Now at Shahjalal University of Science & Technology (Bangladesh)."
     
 collab-a:
