@@ -8,11 +8,13 @@ tbs:
 jdm:
     display_name: "Javier Diego"
     role: faculty
+    image: /img/people/jdm.JPG
     bio: Part-time professor
     
 mafm:
     display_name: "Manuel Antonio Fernandez-Villacañas Marin"
     role: faculty
+    image: /img/people/mafm.JPG
     bio: Part-time professor
     
 ags:
