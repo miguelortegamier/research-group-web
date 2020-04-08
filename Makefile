@@ -27,7 +27,7 @@ clean:
 	$(RM) -r _site _includes/pubs.html
 
 DEPLOY_HOST ?= vps148.cesvima.upm.es
-DEPLOY_PATH ?= /home/vpsadmin/research-group-web
+DEPLOY_PATH ?= /www
 RSYNC := rsync --compress --recursive --checksum --itemize-changes --delete -e ssh
 
 deploy: clean build
