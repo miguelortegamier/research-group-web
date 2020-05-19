@@ -1,7 +1,7 @@
 ---
 title: Improving scheduling models for different processes in the aeronautical supply chain
 
-description: |
+description: 
 
 This research project  aims to identify areas for improvement in the optimization of scheduling different processes in the aeronautical supply chain. More specifically, it concerns  productive phase and mainly covers  both Aggregated Production Planning (APP) and Final Assembly Lines (FAL) problems.
 
