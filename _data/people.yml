@@ -51,6 +51,7 @@ ahs:
 dba:
     display_name: "Daniel Bouzon Assad"
     role: postdoc
+    image: /img/people/da.jpg
 
 mms:
     display_name: "Marta Mañá Sánchez"
@@ -62,8 +63,9 @@ jspo:
     role: grad
 
 isg:
-    display_name: "Irene Sánchez Gómez"
+    display_name: "Irene Gómez Sánchez"
     role: grad
+    image: /img/people/igs.jpeg
 
 alum-a:
     display_name: "Raúl Pulido"
