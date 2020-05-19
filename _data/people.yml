@@ -62,7 +62,7 @@ jspo:
     display_name: "Javier Soto Pérez-Olivares"
     role: grad
 
-isg:
+igs:
     display_name: "Irene Gómez Sánchez"
     role: grad
     image: /img/people/igs.jpeg
@@ -85,6 +85,11 @@ alum-c:
 collab-a:
     display_name: "baobab soluciones"
     webpage: "http://www.baobabsoluciones.es"
+    role: collab
+    
+collab-b:
+    display_name: "LEGOS (Laboratório de Engenharia e Gestão em Saúde)"
+    webpage: "http://www.legos.uerj.br/"
     role: collab
   
 
