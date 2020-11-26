@@ -10,9 +10,10 @@ people:
 layout: project
 last-updated: 2020-26-11
 ---
+<p align="justify">
+<center> <img <img src="/img/projects_imgs/bannerBOR.png"/> </center>
 
-  <center> <img src="/img/projects_imgs/bannerBOR.png"> </center>
-
+<p align="justify">
   We work on applying Behavioural Economics concepts and theories to decision problems faced traditionally by the Operations Research discipline.  We pursue this aim by means of modelling and experimentation.
 
 
@@ -24,3 +25,4 @@ last-updated: 2020-26-11
 
   In the project with Antonio Pérez López del Hierro (2019), we studied the influence of decision times on human cooperative behaviour, using advanced statistical techniques. Experimental data from ∼1000 people who participated in a Public Goods Game experiment from Pereda et al. (2019) was used. We found no significative relationship between decision times and duration of decisions, probably due to the way the data was collected.
   
+</p>
