@@ -11,7 +11,7 @@ layout: project
 last-updated: 2020-26-11
 ---
 <p align="justify">
-<center> <img <img src="/img/projects_imgs/bannerBOR.png"/> </center>
+<center> <img src="/img/projects_imgs/bannerBOR.png"/> </center>
 
 <p align="justify">
   We work on applying Behavioural Economics concepts and theories to decision problems faced traditionally by the Operations Research discipline.  We pursue this aim by means of modelling and experimentation.
