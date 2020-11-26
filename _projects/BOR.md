@@ -10,14 +10,16 @@ people:
 layout: project
 last-updated: 2020-26-11
 ---
+
 <p align="justify">
 <center> <img src="/img/projects_imgs/bannerBOR.png"/> </center>
 
+<br></br>
 <p align="justify">
   We work on applying Behavioural Economics concepts and theories to decision problems faced traditionally by the Operations Research discipline.  We pursue this aim by means of modelling and experimentation.
 
 
-  <h2> Highlighted end-of-degree projects (TFG/TFM in Spanish): </h2>
+  <h3> Highlighted end-of-degree projects (TFG/TFM in Spanish): </h3>
 
   Ana Corral Cajigas is currently studying the influence of decision choices and the "trembling hand" phenomena in the time a person spent queuing at a supermarket. Different kinds of supermaket configurations and decision heuristics are explored.
 
