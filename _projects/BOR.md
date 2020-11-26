@@ -1,5 +1,5 @@
 ---
-title: Behavioural Operations Research Line
+title: Behavioural Operations Research
 
 description: |
   Behavioural Operations borns in the intersection of Behavioural Economics with Operations Research (also known as Operations Management). 
