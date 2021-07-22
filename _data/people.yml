@@ -54,6 +54,11 @@ dba:
     role: postdoc
     image: /img/people/da.jpg
 
+igs:
+    display_name: "Irene Gómez Sánchez"
+    role: grad
+    image: /img/people/igs.jpg
+    
 mms:
     display_name: "Marta Mañá Sánchez"
     role: grad
@@ -62,11 +67,6 @@ mms:
 jspo:
     display_name: "Javier Soto Pérez-Olivares"
     role: grad
-
-igs:
-    display_name: "Irene Gómez Sánchez"
-    role: grad
-    image: /img/people/igs.jpg
 
 alum-a:
     display_name: "Raúl Pulido"
