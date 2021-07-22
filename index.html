@@ -5,16 +5,19 @@ notitle: true
 
 # groups of columns of {roles: list, width: num, image: bool}
 role-tables:
-- - roles: [faculty, postdoc, staff]
+- - roles: [faculty, postdoc]
     width: 4
     image: true
-  - roles: [grad]
-    width: 8
+- - roles: [postdoc]
+    width: 4
+    image: true
+- - roles: [grad]
+    width: 4
     image: true
 - - roles: [collab, ugrad, ugrad-alum]
     width: 5
     image: false
-  - roles: [alum]
+- - roles: [alum]
     width: 7
     image: false
 
@@ -22,8 +25,7 @@ role-tables:
 
 <div class="jumbotron">
     <p>
-        The <b>Ingeniería de Organización y Logística Research Group</b> at <b>Universidad Politécnica de Madrid</b> does all sorts of
-        research. 
+        The <b>Ingeniería de Organización y Logística Research Group</b> at <b>Universidad Politécnica de Madrid</b> researches in different areas related to Operations Research and Logistics. 
     </p>
 </div>
 
@@ -41,21 +43,20 @@ role-tables:
   <li>Simulation</li>
 </ul> 
 
-<section>
-    <h2>News</h2>
-    <ul class="news list-unstyled">
-        {% for post in site.posts limit: site.front_page_news %}
-            {% include news-item.html item=post %}
-        {% endfor %}
-    </ul>
-    {% assign numposts = site.posts | size %}
-    {% if numposts >= 1 %}
-        <p>
-            <span class="fa fa-fw fa-history"></span>
-            <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
-        </p>
-    {% endif %}
-</section>
+<div id="people">
+    <h2>People</h2>
+    {% for role-table in page.role-tables %}
+        <section class="people row justify-content-between">
+            {% for role-column in role-table %}
+                <div class="col-md-{{ role-column.width }}">
+                    {% for role in role-column.roles %}
+                        {% include role-people.html role=role image=role-column.image %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </section>
+    {% endfor %}
+</div>
 
 <section>
     <h2>Research</h2>
@@ -73,17 +74,19 @@ role-tables:
     </div>
 </section>
 
-<div id="people">
-    <h2>People</h2>
-    {% for role-table in page.role-tables %}
-        <section class="people row justify-content-between">
-            {% for role-column in role-table %}
-                <div class="col-md-{{ role-column.width }}">
-                    {% for role in role-column.roles %}
-                        {% include role-people.html role=role image=role-column.image %}
-                    {% endfor %}
-                </div>
-            {% endfor %}
-        </section>
-    {% endfor %}
-</div>
+<section>
+    <h2>News</h2>
+    <ul class="news list-unstyled">
+        {% for post in site.posts limit: site.front_page_news %}
+            {% include news-item.html item=post %}
+        {% endfor %}
+    </ul>
+    {% assign numposts = site.posts | size %}
+    {% if numposts >= 1 %}
+        <p>
+            <span class="fa fa-fw fa-history"></span>
+            <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
+        </p>
+    {% endif %}
+</section>
+
