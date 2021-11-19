@@ -1,20 +1,8 @@
 
 tbs:
     display_name: "Tamara Borreguero"
-    role: faculty
+    role: collab
     image: /img/people/tbs.jpeg
-    bio: Part-time professor
-
-jdm:
-    display_name: "Javier Diego"
-    role: faculty
-    image: /img/people/jdm.JPG
-    bio: Part-time professor
-    
-mafm:
-    display_name: "Manuel Antonio Fernandez-Villacañas Marin"
-    role: faculty
-    image: /img/people/mafm.JPG
     bio: Part-time professor
     
 ags:
