@@ -1,3 +1,20 @@
+jdv:
+    display_name: "Jorge Diaz Velilla"
+    role: faculty
+    image: /img/people/jdv.JPG
+    bio: Professor
+
+psv:
+    display_name: "Pablo Segovia Velasco"
+    role: faculty
+    image: /img/people/ags.JPG
+    bio: Professor
+
+emt:
+    display_name: "Elcio Mendonça Tachizawa"
+    role: faculty
+    image: /img/people/emt.JPG
+    bio: Professor
 
 tbs:
     display_name: "Tamara Borreguero"
@@ -9,7 +26,7 @@ ags:
     display_name: "Álvaro García Sánchez"
     role: faculty
     image: /img/people/ags.JPG
-    bio: Temporaly at baobab soluciones
+    bio: Professor and working at baobab soluciones
 
 mgf:
     display_name: "Miguel Gutiérrez"
@@ -41,20 +58,6 @@ dba:
     webpage: "http://www.legos.uerj.br/?tag=daniel-assad"
     role: postdoc
     image: /img/people/da.jpg
-
-igs:
-    display_name: "Irene Gómez Sánchez"
-    role: grad
-    image: /img/people/igs.jpg
-    
-mms:
-    display_name: "Marta Mañá Sánchez"
-    role: grad
-    image: /img/people/msm.jpg
-
-jspo:
-    display_name: "Javier Soto Pérez-Olivares"
-    role: grad
 
 alum-a:
     display_name: "Raúl Pulido"
