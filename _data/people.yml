@@ -1,19 +1,19 @@
 jdv:
     display_name: "Jorge Diaz Velilla"
     role: faculty
-    image: /img/people/jdv.JPG
+    image: /img/people/jdv.png
     bio: Professor
 
 psv:
     display_name: "Pablo Segovia Velasco"
     role: faculty
-    image: /img/people/ags.JPG
+    image: /img/people/psv.jpg
     bio: Professor
 
 emt:
     display_name: "Elcio Mendonça Tachizawa"
     role: faculty
-    image: /img/people/emt.JPG
+    image: /img/people/emt.jpg
     bio: Professor
 
 tbs:
