@@ -50,6 +50,6 @@ navigation:
   - title: Publications
     link: /publications.html
   - title: Google Scholar
-    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=IrNpshUAAAAJ&gmla=AJsN-F45sc61YZHuPnNvMXGAuyzwhVVBGGM-44oD-PeTsUXUUWjNkssy9u9g4u2U2kqhqQ2pfmhM2v_SKrFF-5aGj3H4LUn_IriM89pwSOVwJj-sYjKABZQ
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&user=IrNpshUAAAAJ&gmla=AJsN-F45sc61YZHuPnNvMXGAuyzwhVVBGGM-44oD-PeTsUXUUWjNkssy9u9g4u2U2kqhqQ2pfmhM2v_SKrFF-5aGj3H4LUn_IriM89pwSOVwJj-sYjKABZQ
   #- title: Code
   #  link: /code.html
