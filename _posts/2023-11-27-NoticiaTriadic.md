@@ -13,7 +13,7 @@ Investigadores de la Universidad Politécnica de Madrid (UPM), Carlos III de Mad
 En este trabajo, publicado en la revista Proceedings of the National Academy of Sciences (PNAS) de Estados Unidos, se presenta un estudio detallado sobre las relaciones sociales del alumnado de 13 institutos de educación secundaria, que incluyen más de 3.000 estudiantes y alrededor de 60.000 relaciones positivas y negativas declaradas, junto con pruebas de rasgos personales de los estudiantes. “Podemos predecir con bastante precisión (del 90%) si dos personas son amigos o se llevan mal simplemente conociendo cuántos amigos y enemigos tienen en común”, añade Anxo Sánchez.
 
 <p align="justify">
-<center> <img src="/img/projects_imgs/figure_maria.png"/> </center>
+<center> <img src="/img/projects_imgs/figure_maria.png" width="800"/> </center>
 
 <br>
 <p align="justify">
