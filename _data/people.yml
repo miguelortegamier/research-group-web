@@ -56,13 +56,15 @@ ahs:
 dba:
     display_name: "Daniel Bouzon Assad"
     webpage: "http://www.legos.uerj.br/?tag=daniel-assad"
-    role: postdoc
+    role: alum
+    bio: "Ph.D., 2023. Now at the URJC (Brasil)."
     image: /img/people/da.jpg
     
 cgcg:
     display_name: "Carlos García-Castellano Gerbolés"
     role: postdoc
     image: /img/people/cgcg.jpg
+    bio: PhD and researcher
 
 alum-a:
     display_name: "Raúl Pulido"
