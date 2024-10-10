@@ -26,4 +26,5 @@ Esta investigación proporciona datos y resultados útiles para la gestión de l
 
 Además, la investigación también puede tener implicaciones para la creación de políticas y prácticas en el lugar de trabajo. Por ejemplo, si los empleadores entienden que las diferencias entre los trabajadores pueden ser beneficiosas para la creatividad y el desempeño laboral, podrían fomentar la diversidad en sus equipos y ambientes de trabajo. En resumen, esta investigación puede ayudarnos a construir relaciones más saludables y productivas en nuestras vidas personales y profesionales.
 
-**Referencia bibliográfica**: Ruiz-García, M., Ozaita, J., Pereda, M., Alfonso, A., Brañas-Garza, P., Cuesta, J. A., & Sánchez, S. (2023). Triadic influence as a proxy for compatibility in social relationships. Proceedings of the National Academy of Sciences, 120(13), e2215041120. https://doi.org/10.1073/pnas.2215041120
+
+**Referencia bibliográfica**: Ruiz-García, M., Ozaita, J., Pereda, M., Alfonso, A., Brañas-Garza, P., Cuesta, J. A., & Sánchez, S. (2023). Triadic influence as a proxy for compatibility in social relationships. Proceedings of the National Academy of Sciences, 120(13), e2215041120. `https://doi.org/10.1073/pnas.2215041120`
