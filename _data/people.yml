@@ -58,6 +58,11 @@ dba:
     webpage: "http://www.legos.uerj.br/?tag=daniel-assad"
     role: postdoc
     image: /img/people/da.jpg
+    
+cgcg:
+    display_name: "Carlos García-Castellano Gerbolés"
+    role: postdoc
+    image: /img/people/cgcg.jpg
 
 alum-a:
     display_name: "Raúl Pulido"
