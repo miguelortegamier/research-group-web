@@ -30,6 +30,8 @@ Los hallazgos tienen implicaciones importantes para comprender cómo se propagan
 Los investigadores concluyen que este estudio abre nuevas vías para investigar cómo se propagan las innovaciones en las redes sociales y sugiere que las estrategias para acelerar la adopción de nuevas ideas o tecnologías deberían tener en cuenta no solo las conexiones directas, sino también la influencia de los círculos sociales más amplios.
 </p>
 <p align="justify">
-Manuel Miranda, María Pereda, Angel Sánchez, Ernesto Estrada, Indirect social influence and diffusion of innovations: An experimental approach, PNAS Nexus, Volume 3, Issue 10, October 2024, pgae409, [https://doi.org/10.1093/pnasnexus/pgae409](url)
+Manuel Miranda, María Pereda, Angel Sánchez, Ernesto Estrada, Indirect social influence and diffusion of innovations: An experimental approach, PNAS Nexus, Volume 3, Issue 10, October 2024, pgae409, https://doi.org/10.1093/pnasnexus/pgae409
+
+
 
 </p>
