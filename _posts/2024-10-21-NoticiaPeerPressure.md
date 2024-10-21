@@ -24,6 +24,7 @@ El experimento se llevó a cabo en cuatro configuraciones diferentes, proporcion
 Los hallazgos tienen implicaciones importantes para comprender cómo se propagan las ideas, comportamientos y tecnologías en la sociedad. Además, podrían aplicarse en áreas como políticas de salud pública, marketing o cambio social. Este trabajo interdisciplinar combina métodos experimentales con modelos matemáticos avanzados para arrojar luz sobre los complejos procesos de influencia social en la difusión de innovaciones. "Estos resultados se obtienen tratando a todos los 'amigos' como un grupo indistinguible. Resolver e intentar predecir esta influencia a nivel particular requerirá más trabajo" afirma María Pereda, investigadora de la UPM. 
 
 Los investigadores concluyen que este estudio abre nuevas vías para investigar cómo se propagan las innovaciones en las redes sociales y sugiere que las estrategias para acelerar la adopción de nuevas ideas o tecnologías deberían tener en cuenta no solo las conexiones directas, sino también la influencia de los círculos sociales más amplios.
-
+<br>
+<br>
 Manuel Miranda, María Pereda, Angel Sánchez, Ernesto Estrada, Indirect social influence and diffusion of innovations: An experimental approach, PNAS Nexus, Volume 3, Issue 10, October 2024, pgae409, https://doi.org/10.1093/pnasnexus/pgae409
 
